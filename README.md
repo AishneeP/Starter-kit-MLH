@@ -1,2 +1,2 @@
 # Starter-kit-MLH
-It is just a basic starter kit.
+Hey! This is my repository. Hope you find it helpful, and feel free to edit it.
